@@ -1,1 +1,10 @@
-html{ background-color: black;}
+html {
+    background-color: black;
+}
+
+
+/* Sintaxis css
+seletor,etiqueta, class, id{ color: black;}
+{propiedad:valor
+    propiedad:valor
+    propiedad:valor */
