@@ -1,1 +1,14 @@
-html{ background-color: black;}
+.micuadro {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+}
+
+.micuadro:hover{
+    background-color: aqua;
+}
